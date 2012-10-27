@@ -7,7 +7,8 @@ Right now, the extension does two things; it adds an extra overview to /tickets 
 
 ## Installation ##
 Place the contents of the serverside directory somewhere on a publicly accessible though obscure URL. Then place the URL in codebase.js and load the Chrome extension (see step 4 on https://developer.chrome.com/extensions/getstarted.html).  
-If you're using an alias for Codebase on your own domain, be sure to add it to the 'matches' list in the Chrome extension's manifest.json.
+If you're using an alias for Codebase on your own domain, be sure to add it to the 'matches' list in the Chrome extension's manifest.json.  
+After installing the Chrome extension, go to the Extension page (under Tools) and click options. Fill out your API credentials (you can find these at the bottom of the My Profile page in Codebase).
 
 ## Contact ##
 GitHub: https://github.com/peterjaap/mate  
